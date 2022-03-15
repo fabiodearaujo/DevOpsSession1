@@ -1,5 +1,6 @@
 
 def message(a):
-    print(a)
+    print("Your message is: " + a)
 
-message("Hello World!")
+messageText = input("Enter a message: ")
+message(messageText)
