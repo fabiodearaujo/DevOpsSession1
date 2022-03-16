@@ -1,4 +1,3 @@
-
 def message(a):
     print("Your message is: " + a)
 
